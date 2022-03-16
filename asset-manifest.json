@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nzzareno/birthday-reminder/static/css/main.65cb8a87.chunk.css",
+    "main.js": "/nzzareno/birthday-reminder/static/js/main.e55e90f9.chunk.js",
+    "main.js.map": "/nzzareno/birthday-reminder/static/js/main.e55e90f9.chunk.js.map",
+    "runtime-main.js": "/nzzareno/birthday-reminder/static/js/runtime-main.fc3a9d1b.js",
+    "runtime-main.js.map": "/nzzareno/birthday-reminder/static/js/runtime-main.fc3a9d1b.js.map",
+    "static/js/2.1f771bf1.chunk.js": "/nzzareno/birthday-reminder/static/js/2.1f771bf1.chunk.js",
+    "static/js/2.1f771bf1.chunk.js.map": "/nzzareno/birthday-reminder/static/js/2.1f771bf1.chunk.js.map",
+    "index.html": "/nzzareno/birthday-reminder/index.html",
+    "precache-manifest.fa7d5a41f8634674f9731a09e84e1d37.js": "/nzzareno/birthday-reminder/precache-manifest.fa7d5a41f8634674f9731a09e84e1d37.js",
+    "service-worker.js": "/nzzareno/birthday-reminder/service-worker.js",
+    "static/css/main.65cb8a87.chunk.css.map": "/nzzareno/birthday-reminder/static/css/main.65cb8a87.chunk.css.map",
+    "static/js/2.1f771bf1.chunk.js.LICENSE.txt": "/nzzareno/birthday-reminder/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc3a9d1b.js",
+    "static/js/2.1f771bf1.chunk.js",
+    "static/css/main.65cb8a87.chunk.css",
+    "static/js/main.e55e90f9.chunk.js"
+  ]
+}
